@@ -1,4 +1,3 @@
-// lista_dupla.c
 #include <stdio.h>
 #include <stdlib.h>
 #include "lista_dupla.h"
